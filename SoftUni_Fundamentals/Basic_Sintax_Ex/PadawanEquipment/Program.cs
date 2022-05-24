@@ -32,11 +32,11 @@ namespace PadawanEquipment
 
             if (totalPrice <= money)
             {
-                Console.WriteLine($"The money is enough - it would cost {totalPrice}lv.");
+                Console.WriteLine($"The money is enough - it would cost {totalPrice:f2}lv.");
             }
             else
             {
-                Console.WriteLine($" John will need {totalPrice - money:f2}lv more.");
+                Console.WriteLine($"John will need {totalPrice - money:f2}lv more.");
             }
         }
     }
