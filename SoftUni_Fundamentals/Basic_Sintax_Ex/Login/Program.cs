@@ -15,7 +15,7 @@ namespace Login
 
         static void Main(string[] args)
         {
-            
+
             string name = Console.ReadLine();
             bool end = false;
             string password = passGenerator(name);
@@ -32,7 +32,7 @@ namespace Login
                 }
                 else if (password == passTry)
                 {
-                    Console.WriteLine("User {0} logged in.",name);
+                    Console.WriteLine("User {0} logged in.", name);
                     end = true;
                 }
                 else

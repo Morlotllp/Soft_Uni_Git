@@ -16,7 +16,7 @@ namespace PrintAndSum
                 sum += i;
             }
             Console.WriteLine();
-            Console.WriteLine("Sum: {0}",sum);
+            Console.WriteLine("Sum: {0}", sum);
         }
     }
 }

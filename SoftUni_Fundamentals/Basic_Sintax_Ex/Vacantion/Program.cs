@@ -46,7 +46,7 @@ namespace Vacantion
                     }
 
                     break;
-                case"Sunday":
+                case "Sunday":
                     if (groupType == "Students")
                     {
                         price = 10.46;
@@ -74,7 +74,7 @@ namespace Vacantion
             }
             else if (groupType == "Business" && countPeople >= 100)
             {
-                discount =  10 * price;
+                discount = 10 * price;
             }
             else if (groupType == "Regular" && (countPeople >= 10 && countPeople <= 20))
             {

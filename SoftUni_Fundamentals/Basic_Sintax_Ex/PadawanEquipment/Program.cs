@@ -8,13 +8,13 @@ namespace PadawanEquipment
         {
             double money = double.Parse(Console.ReadLine());
             int studentsCount = int.Parse(Console.ReadLine());
-            
+
             //prices
             double saberPrice = double.Parse(Console.ReadLine());
             double robesPrice = double.Parse(Console.ReadLine());
             double beltPrice = double.Parse(Console.ReadLine());
 
-            
+
             double sabersNeeded = studentsCount + studentsCount * 0.1;
 
             int beltCount = 0;

@@ -33,7 +33,7 @@ namespace VendingMachine
         }
         static void Main(string[] args)
         {
-            
+
             double money = EnterCoins();
 
             string product = null;
@@ -89,7 +89,7 @@ namespace VendingMachine
                 }
             }
             //double change = money - prodTotalPrice;
-            Console.WriteLine("Change: {0:f2}",money);
+            Console.WriteLine("Change: {0:f2}", money);
         }
     }
 }
