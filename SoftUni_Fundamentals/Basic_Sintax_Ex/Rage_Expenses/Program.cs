@@ -43,9 +43,7 @@ namespace Rage_Exp
                         //display
                         rageExpenses += displayPrice;
                     }
-
                 }
-
             }
             Console.WriteLine($"Rage expenses: {rageExpenses:f2} lv.");
         }
