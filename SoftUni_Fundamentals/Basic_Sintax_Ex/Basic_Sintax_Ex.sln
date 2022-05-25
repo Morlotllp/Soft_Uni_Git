@@ -17,9 +17,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrongNum", "StrongNum\Stro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachine", "VendingMachine\VendingMachine.csproj", "{D9F21065-9D22-44D6-B0C8-1C2B4D0A6EC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle_Nums", "Triangle_Nums\Triangle_Nums.csproj", "{E23DE713-9A58-4C93-A887-E982EEF8635F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangle_Nums", "Triangle_Nums\Triangle_Nums.csproj", "{E23DE713-9A58-4C93-A887-E982EEF8635F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PadawanEquipment", "PadawanEquipment\PadawanEquipment.csproj", "{75922B35-1F3F-499D-A6AA-DBC944620053}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PadawanEquipment", "PadawanEquipment\PadawanEquipment.csproj", "{75922B35-1F3F-499D-A6AA-DBC944620053}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rage_Expenses", "Rage_Expenses\Rage_Expenses.csproj", "{B7757FC1-4BDD-48DB-9237-0AF1970C5752}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{75922B35-1F3F-499D-A6AA-DBC944620053}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75922B35-1F3F-499D-A6AA-DBC944620053}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75922B35-1F3F-499D-A6AA-DBC944620053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7757FC1-4BDD-48DB-9237-0AF1970C5752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7757FC1-4BDD-48DB-9237-0AF1970C5752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7757FC1-4BDD-48DB-9237-0AF1970C5752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7757FC1-4BDD-48DB-9237-0AF1970C5752}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
