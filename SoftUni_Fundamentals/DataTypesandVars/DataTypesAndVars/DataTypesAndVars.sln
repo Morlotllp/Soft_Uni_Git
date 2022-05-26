@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversedChars", "ReversedCh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TownInfo", "TownInfo\TownInfo.csproj", "{3DC6516B-EC55-4B15-B84E-860FD3FCE197}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactNames", "ContactNames\ContactNames.csproj", "{EBE8E9C0-FF08-424F-8B4C-F07282E4C42C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{3DC6516B-EC55-4B15-B84E-860FD3FCE197}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DC6516B-EC55-4B15-B84E-860FD3FCE197}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DC6516B-EC55-4B15-B84E-860FD3FCE197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBE8E9C0-FF08-424F-8B4C-F07282E4C42C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE8E9C0-FF08-424F-8B4C-F07282E4C42C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE8E9C0-FF08-424F-8B4C-F07282E4C42C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE8E9C0-FF08-424F-8B4C-F07282E4C42C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
