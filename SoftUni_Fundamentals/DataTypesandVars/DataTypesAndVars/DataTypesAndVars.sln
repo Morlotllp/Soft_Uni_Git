@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypesAndVars", "DataTyp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoundsToDollar", "PoundsToDollar\PoundsToDollar.csproj", "{9B99CEEC-5BBD-4825-A02D-D68BB80C2D57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExactSumOfREalNumbers", "ExactSumOfREalNumbers\ExactSumOfREalNumbers.csproj", "{191D38C5-529E-4D9A-9D13-865AB5E12F4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9B99CEEC-5BBD-4825-A02D-D68BB80C2D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B99CEEC-5BBD-4825-A02D-D68BB80C2D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B99CEEC-5BBD-4825-A02D-D68BB80C2D57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{191D38C5-529E-4D9A-9D13-865AB5E12F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{191D38C5-529E-4D9A-9D13-865AB5E12F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{191D38C5-529E-4D9A-9D13-865AB5E12F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{191D38C5-529E-4D9A-9D13-865AB5E12F4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
