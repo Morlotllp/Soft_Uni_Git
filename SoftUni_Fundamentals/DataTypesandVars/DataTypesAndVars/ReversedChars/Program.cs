@@ -14,7 +14,7 @@ namespace ReversedChars
                 dumpBin[i] = character;
             }
 
-            for (int i = dumpBin.Length; i > 0 ; i--)
+            for (int i = dumpBin.Length; i > 0; i--)
             {
                 Console.Write(dumpBin[i - 1] + " ");
             }

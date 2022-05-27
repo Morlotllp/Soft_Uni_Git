@@ -25,7 +25,7 @@ namespace SpecNumbers
             for (int i = 1; i <= convertInput; i++)
             {
                 int currentNum = CalculateDigits(i);
-                if (currentNum  == 5 || currentNum == 7 || currentNum == 11)
+                if (currentNum == 5 || currentNum == 7 || currentNum == 11)
                 {
                     isSpecial = true;
                 }
@@ -34,7 +34,7 @@ namespace SpecNumbers
                 currentNum = 0;
                 isSpecial = false;
             }
-            
+
         }
     }
 }
