@@ -20,6 +20,7 @@ namespace SpecNumbersDebug
                 }
                 isSpecial = (sum == 5) || (sum == 7) || (sum == 11);
                 Console.WriteLine("{0} -> {1}", currentNum, isSpecial);
+
                 sum = 0;
                 i = currentNum;
             }
