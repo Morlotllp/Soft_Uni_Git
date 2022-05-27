@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfChars", "SumOfChars\Su
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASCIItable", "ASCIItable\ASCIItable.csproj", "{923FFFA4-4892-4D4B-9383-0ADBDD5148CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripplesOfLetters", "TripplesOfLetters\TripplesOfLetters.csproj", "{F694478F-9647-43C8-BC43-A61561A3CE81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{923FFFA4-4892-4D4B-9383-0ADBDD5148CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{923FFFA4-4892-4D4B-9383-0ADBDD5148CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{923FFFA4-4892-4D4B-9383-0ADBDD5148CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F694478F-9647-43C8-BC43-A61561A3CE81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F694478F-9647-43C8-BC43-A61561A3CE81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F694478F-9647-43C8-BC43-A61561A3CE81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F694478F-9647-43C8-BC43-A61561A3CE81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
