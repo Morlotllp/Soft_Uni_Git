@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASCIItable", "ASCIItable\AS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripplesOfLetters", "TripplesOfLetters\TripplesOfLetters.csproj", "{F694478F-9647-43C8-BC43-A61561A3CE81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterOverflow", "WaterOverflow\WaterOverflow.csproj", "{86AACA4D-4D78-4D0F-87A1-ABE6BBAC00D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{F694478F-9647-43C8-BC43-A61561A3CE81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F694478F-9647-43C8-BC43-A61561A3CE81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F694478F-9647-43C8-BC43-A61561A3CE81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86AACA4D-4D78-4D0F-87A1-ABE6BBAC00D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86AACA4D-4D78-4D0F-87A1-ABE6BBAC00D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86AACA4D-4D78-4D0F-87A1-ABE6BBAC00D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86AACA4D-4D78-4D0F-87A1-ABE6BBAC00D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
