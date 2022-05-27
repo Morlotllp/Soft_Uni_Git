@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumDigits", "SumDigits\SumD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elevator", "Elevator\Elevator.csproj", "{520A8FBF-04CA-4EC4-8B1F-B218837F4E26}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfChars", "SumOfChars\SumOfChars.csproj", "{03591DA8-194D-466F-8B17-599EF0F70B7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASCIItable", "ASCIItable\ASCIItable.csproj", "{923FFFA4-4892-4D4B-9383-0ADBDD5148CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{520A8FBF-04CA-4EC4-8B1F-B218837F4E26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{520A8FBF-04CA-4EC4-8B1F-B218837F4E26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{520A8FBF-04CA-4EC4-8B1F-B218837F4E26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03591DA8-194D-466F-8B17-599EF0F70B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03591DA8-194D-466F-8B17-599EF0F70B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03591DA8-194D-466F-8B17-599EF0F70B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03591DA8-194D-466F-8B17-599EF0F70B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{923FFFA4-4892-4D4B-9383-0ADBDD5148CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923FFFA4-4892-4D4B-9383-0ADBDD5148CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923FFFA4-4892-4D4B-9383-0ADBDD5148CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923FFFA4-4892-4D4B-9383-0ADBDD5148CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

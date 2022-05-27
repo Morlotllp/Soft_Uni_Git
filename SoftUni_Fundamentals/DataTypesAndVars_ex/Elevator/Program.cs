@@ -10,7 +10,7 @@ namespace Elevator
             int capacity = int.Parse(Console.ReadLine());
 
             int courses = numberOfPeople / capacity;
-            if (numberOfPeople % capacity == 0)
+            if (numberOfPeople % capacity != 0)
             {
                 courses++;
             }
