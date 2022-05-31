@@ -3,19 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypesAndVars_ex", "DataTypesAndVars_ex\DataTypesAndVars_ex.csproj", "{C147FAE1-D1E5-453E-84DA-297B3A8D5390}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTypesAndVars_ex", "DataTypesAndVars_ex\DataTypesAndVars_ex.csproj", "{C147FAE1-D1E5-453E-84DA-297B3A8D5390}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumDigits", "SumDigits\SumDigits.csproj", "{5BBAEFA0-ACEE-47D5-B0FB-B8FE38D93064}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumDigits", "SumDigits\SumDigits.csproj", "{5BBAEFA0-ACEE-47D5-B0FB-B8FE38D93064}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elevator", "Elevator\Elevator.csproj", "{520A8FBF-04CA-4EC4-8B1F-B218837F4E26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Elevator", "Elevator\Elevator.csproj", "{520A8FBF-04CA-4EC4-8B1F-B218837F4E26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfChars", "SumOfChars\SumOfChars.csproj", "{03591DA8-194D-466F-8B17-599EF0F70B7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfChars", "SumOfChars\SumOfChars.csproj", "{03591DA8-194D-466F-8B17-599EF0F70B7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASCIItable", "ASCIItable\ASCIItable.csproj", "{923FFFA4-4892-4D4B-9383-0ADBDD5148CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASCIItable", "ASCIItable\ASCIItable.csproj", "{923FFFA4-4892-4D4B-9383-0ADBDD5148CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripplesOfLetters", "TripplesOfLetters\TripplesOfLetters.csproj", "{F694478F-9647-43C8-BC43-A61561A3CE81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TripplesOfLetters", "TripplesOfLetters\TripplesOfLetters.csproj", "{F694478F-9647-43C8-BC43-A61561A3CE81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterOverflow", "WaterOverflow\WaterOverflow.csproj", "{86AACA4D-4D78-4D0F-87A1-ABE6BBAC00D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WaterOverflow", "WaterOverflow\WaterOverflow.csproj", "{86AACA4D-4D78-4D0F-87A1-ABE6BBAC00D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeerKegs", "BeerKegs\BeerKegs.csproj", "{D2F7A23A-DF0A-4C4F-8F06-5A483C8596A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spces", "Spces\Spces.csproj", "{91C0877A-976C-44DC-98F2-69C1E9294AC0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{86AACA4D-4D78-4D0F-87A1-ABE6BBAC00D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86AACA4D-4D78-4D0F-87A1-ABE6BBAC00D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86AACA4D-4D78-4D0F-87A1-ABE6BBAC00D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2F7A23A-DF0A-4C4F-8F06-5A483C8596A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F7A23A-DF0A-4C4F-8F06-5A483C8596A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F7A23A-DF0A-4C4F-8F06-5A483C8596A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F7A23A-DF0A-4C4F-8F06-5A483C8596A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91C0877A-976C-44DC-98F2-69C1E9294AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91C0877A-976C-44DC-98F2-69C1E9294AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91C0877A-976C-44DC-98F2-69C1E9294AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91C0877A-976C-44DC-98F2-69C1E9294AC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
