@@ -17,9 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TripplesOfLetters", "Trippl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WaterOverflow", "WaterOverflow\WaterOverflow.csproj", "{86AACA4D-4D78-4D0F-87A1-ABE6BBAC00D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeerKegs", "BeerKegs\BeerKegs.csproj", "{D2F7A23A-DF0A-4C4F-8F06-5A483C8596A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeerKegs", "BeerKegs\BeerKegs.csproj", "{D2F7A23A-DF0A-4C4F-8F06-5A483C8596A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spces", "Spces\Spces.csproj", "{91C0877A-976C-44DC-98F2-69C1E9294AC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spces", "Spces\Spces.csproj", "{91C0877A-976C-44DC-98F2-69C1E9294AC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poke_mon", "Poke_mon\Poke_mon.csproj", "{13B332B6-08BB-4D46-9906-69CFDBCD9BB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnowBalls", "SnowBalls\SnowBalls.csproj", "{C8991294-140F-4829-86CD-5931D24F8246}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{91C0877A-976C-44DC-98F2-69C1E9294AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91C0877A-976C-44DC-98F2-69C1E9294AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91C0877A-976C-44DC-98F2-69C1E9294AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13B332B6-08BB-4D46-9906-69CFDBCD9BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B332B6-08BB-4D46-9906-69CFDBCD9BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B332B6-08BB-4D46-9906-69CFDBCD9BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B332B6-08BB-4D46-9906-69CFDBCD9BB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8991294-140F-4829-86CD-5931D24F8246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8991294-140F-4829-86CD-5931D24F8246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8991294-140F-4829-86CD-5931D24F8246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8991294-140F-4829-86CD-5931D24F8246}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
