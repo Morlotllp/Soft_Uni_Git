@@ -31,8 +31,7 @@ namespace EqualArr
             }
             else
             {
-                Console.WriteLine($"Arrays are not identical. Found difference at {index} index."
-);
+                Console.WriteLine($"Arrays are not identical. Found difference at {index} index");
             }
         }
     }
